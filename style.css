@@ -1,6 +1,6 @@
 .nav {
   height: 50px;
-  border-bottom: 1px solid;
+  border-bottom: 1px solid black;
   display: flex;
   align-items: center;
 }
